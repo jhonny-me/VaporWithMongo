@@ -1,7 +1,5 @@
 {
   "user": "johnny",
-"password": "johnny",
-"database": "Hello_Vapor",
-"port": "27017",
-"host": "localhost"
+  "password": "johnny",
+  "database": "Hello_Vapor"
 }
