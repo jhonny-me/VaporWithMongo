@@ -7,6 +7,7 @@ final class Record: Model {
 	var time: String?
 	var amount: Double?
 	var type: String?
+	var exists = false
 }
 
 // MARK: NodeConvertible
